@@ -2,7 +2,8 @@
 
 **AnalystLab Africa | Generative AI Internship Programme**
 **Week 2: Building AI-Powered Applications with Large Language Models (LLMs)**
-![ABC Communication Assistant Demo]('screenshots/user_interface.png')
+![ABC Communication Assistant Demo]("screenshots
+/user_interface.png")
 ## Overview
 
 This repository contains my Week 2 deliverables: a functional AI-powered customer support application built with Python and Streamlit, integrating the Google Gemini API. The app extends the assistant design from Week 1 into a working prototype that accepts real user input and returns live, AI-generated responses.
