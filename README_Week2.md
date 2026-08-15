@@ -31,7 +31,7 @@ New and infrequent users of ABC Telecom often struggle to navigate the available
 └── screenshots/              
 ```
 
-️ **Note:** You will need your own Google Gemini API key to run this application. Get one at [Google AI Studio]https://aistudio.google.com/).
+️ **Note:** You will need your own Google Gemini API key to run this application. Get one at [Google AI Studio](./user_interface.png).
 
 ## Application Overview
 
