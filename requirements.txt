@@ -1,0 +1,1 @@
+﻿To successfully the app file, “Your API key” should be replaced by  the reproducer key.
